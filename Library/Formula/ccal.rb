@@ -2,7 +2,7 @@ require 'formula'
 
 class Ccal < Formula
   url 'http://ccal.chinesebay.com/ccal/ccal-2.5.2.tar.gz'
-  homepage 'http://ccal.chinesebay.com/ccal'
+  homepage 'http://ccal.chinesebay.com/'
   md5 '93ba6c4af760bcef24aec7d483242b2b'
 
   def install
